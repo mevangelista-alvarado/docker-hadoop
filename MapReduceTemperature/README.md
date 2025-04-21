@@ -1,0 +1,1 @@
+`hadoop jar hadoop-mapreduce-examples-2.7.1-sources.jar org.apache.hadoop.examples.SecondarySort input_temperature output_temperature`
