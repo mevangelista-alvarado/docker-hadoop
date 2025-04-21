@@ -12,7 +12,7 @@ Mueva el archivo `hadoop-mapreduce-examples-2.7.1-sources.jar` ejecutando:
 
 Mueva el archivo `Temperature.txt` ejecutando: 
 ```
-  docker cp ./MapReduceSudoku/Temperature.txt namenode:/tmp
+  docker cp ./MapReduceTemperature/Temperature.txt namenode:/tmp
 ```
 
 ## Ejemplo Map Reduce
