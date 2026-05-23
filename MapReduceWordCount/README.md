@@ -22,7 +22,7 @@ Mueva el archivo `el_quijote.txt` ejecutando:
 ```
 * Luego,
 ```
-  hdfs dfs -mkdir /user/root/input_contador
+  hdfs dfs -mkdir -p /user/root/input_contador
 ```
 * Después,
 ```
