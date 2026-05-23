@@ -7,7 +7,7 @@ Para ejecutar los siguientes comandos, debe ubicarse en la carpeta que contenga 
 ## Mover el archivo .jar y el puzzle.dta
 Mueva el archivo `hadoop-mapreduce-examples-2.7.1-sources.jar` ejecutando: 
 ```
-  docker cp ./MapReduceWordCounthadoop-mapreduce-examples-2.7.1-sources.jar namenode:/tmp
+  docker cp ./MapReduceWordCount/hadoop-mapreduce-examples-2.7.1-sources.jar namenode:/tmp
 ```
 
 Mueva el archivo `el_quijote.txt` ejecutando: 
